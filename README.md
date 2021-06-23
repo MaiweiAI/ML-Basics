@@ -5,7 +5,7 @@
         <td colspan="1" rowspan="5" class="ai-notebooks-table-points ai-orange-link">
         <br>
         <div align="center">
-            <a class="ai-header-badge" target="_blank" href="https://github.com/Charmve/basics">
+            <a class="ai-header-badge" target="_blank" href="https://github.com/MaiweiAI/basics">
             <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star">
             </a>&nbsp;
             <a class="ai-header-badge" target="_blank" href="https://www.linkedin.com/company/madewithml">
@@ -24,54 +24,54 @@
         </ul>
         </td>
         </td>
-        <td><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/01_Notebooks.ipynb">📓 Notebooks</a></td>
-        <td><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/02_Python.ipynb">🐍 Python</a></td>
-        <td><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/03_NumPy.ipynb">🔢 NumPy</a></td>
+        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/01_Notebooks.ipynb">📓 Notebooks</a></td>
+        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/02_Python.ipynb">🐍 Python</a></td>
+        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/03_NumPy.ipynb">🔢 NumPy</a></td>
     </tr>
     <tr>
-        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/04_Pandas.ipynb">🐼 Pandas</a></td>
-        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/05_TensorFlow.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"> TensorFlow</a></td>
-        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/06_PyTorch.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"> PyTorch</a></td>
+        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/04_Pandas.ipynb">🐼 Pandas</a></td>
+        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/05_TensorFlow.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"> TensorFlow</a></td>
+        <td><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/06_PyTorch.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"> PyTorch</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/MaiweiAI/basics/tree/master/notebooks/07_Linear_Regression">📈 Linear Regression</a>
-            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/07_Linear_Regression/07_TF_Linear_Regression.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/07_Linear_Regression/07_PT_Linear_Regression.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+        <td><a href="https://github.com/MaiweiAI/basics/tree/main/notebooks/07_Linear_Regression">📈 Linear Regression</a>
+            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/07_Linear_Regression/07_TF_Linear_Regression.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/07_Linear_Regression/07_PT_Linear_Regression.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
         </td>
         <td>
-            <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/08_Logistic_Regression">📊 Logistic Regression</a>
-            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/08_Logistic_Regression/08_TF_Logistic_Regression.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/08_Logistic_Regression/08_PT_Logistic_Regression.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+            <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/08_Logistic_Regression">📊 Logistic Regression</a>
+            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/08_Logistic_Regression/08_TF_Logistic_Regression.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/08_Logistic_Regression/08_PT_Logistic_Regression.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
         </td>
         <td>
-            <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/09_Multilayer_Perceptrons">️🎛 Multilayer Perceptrons</a>
-            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/09_Multilayer_Perceptrons/09_TF_Multilayer_Perceptrons.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/09_Multilayer_Perceptrons/09_PT_Multilayer_Perceptrons.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+            <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/09_Multilayer_Perceptrons">️🎛 Multilayer Perceptrons</a>
+            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/09_Multilayer_Perceptrons/09_TF_Multilayer_Perceptrons.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/09_Multilayer_Perceptrons/09_PT_Multilayer_Perceptrons.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
         </td>
     </tr>
     <tr>
     <td>
-        <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/10_Data_and_Models">🔎 Data & Models</a>
-        <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+        <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/10_Data_and_Models">🔎 Data & Models</a>
+        <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
     </td>
     <td>
-        <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/11_Utilities">🛠 Utilities</a>
-        <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/11_Utilities/11_TF_Utilities.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/11_Utilities/11_PT_Utilities.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+        <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/11_Utilities">🛠 Utilities</a>
+        <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/11_Utilities/11_TF_Utilities.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/11_Utilities/11_PT_Utilities.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
     </td>
     <td>
-        <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/12_Preprocessing">️✂️ Preprocessing</a>
-        <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/12_Preprocessing/12_TF_Preprocessing.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/12_Preprocessing/12_PT_Preprocessing.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+        <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/12_Preprocessing">️✂️ Preprocessing</a>
+        <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/12_Preprocessing/12_TF_Preprocessing.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/12_Preprocessing/12_PT_Preprocessing.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
     </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/13_Convolutional_Neural_Networks">️🖼 Convolutional Neural Networks</a>
-            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/13_Convolutional_Neural_Networks/13_TF_Convolutional_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/13_Convolutional_Neural_Networks/13_PT_Convolutional_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+            <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/13_Convolutional_Neural_Networks">️🖼 Convolutional Neural Networks</a>
+            <div><a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/13_Convolutional_Neural_Networks/13_TF_Convolutional_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/13_Convolutional_Neural_Networks/13_PT_Convolutional_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
         </td>
         <td>
-            <a href="https://github.com/MaiweiAI/basics/blob/master/notebooks/14_Embeddings">👑 Embeddings</a>
-            <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/14_Embeddings/14_TF_Embeddings.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/14_Embeddings/14_PT_Embeddings.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+            <a href="https://github.com/MaiweiAI/basics/blob/main/notebooks/14_Embeddings">👑 Embeddings</a>
+            <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/main/notebooks/14_Embeddings/14_TF_Embeddings.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/14_Embeddings/14_PT_Embeddings.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
         </td>
         <td>
-            <a href="https://github.com/MaiweiAI/basics/tree/master/notebooks/15_Recurrent_Neural_Networks">📗 Recurrent Neural Networks</a>
-            <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/15_Recurrent_Neural_Networks/15_TF_Recurrent_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/master/notebooks/15_Recurrent_Neural_Networks/15_PT_Recurrent_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
+            <a href="https://github.com/MaiweiAI/basics/tree/main/notebooks/15_Recurrent_Neural_Networks">📗 Recurrent Neural Networks</a>
+            <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/main/notebooks/15_Recurrent_Neural_Networks/15_TF_Recurrent_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="20rem"></a> | <a href="https://colab.research.google.com/github/MaiweiAI/basics/blob/main/notebooks/15_Recurrent_Neural_Networks/15_PT_Recurrent_Neural_Networks.ipynb"><img src="https://raw.githubusercontent.com/Charmve/Charmve/main/OctoCharmve/pytorch-logo.png" width="20rem"></a></div>
         </td>
     </tr>
     </tbody>
